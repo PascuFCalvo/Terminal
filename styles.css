@@ -130,6 +130,19 @@ pre#sig {
     margin-left: 115px;
 }
 
+.recursos {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 100vw;
+
+}
+
+#Recursos {
+    margin-left: 10%;
+}
+
 .flexTry {
     display: flex;
     flex-direction: row;
